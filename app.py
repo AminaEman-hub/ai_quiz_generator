@@ -6,8 +6,7 @@ import time
 import streamlit as st
 from dotenv import load_dotenv
 from google import genai
-from streamlit_autorefresh import st_autorefresh
-
+from streamlit_autorefresh import st_autorefresh 
 
 # --------------------------------------------------
 # LOAD API KEY
